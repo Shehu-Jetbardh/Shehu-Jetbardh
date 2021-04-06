@@ -1,5 +1,4 @@
-![Uploading 3.Shehu1.jpg…]()
-
+![3 Shehu1](https://user-images.githubusercontent.com/82016225/113663892-03bf4800-96d5-11eb-9ecd-e375f4642b66.jpg)
 ### Hi there 👋
 
 <!--
