@@ -1,4 +1,4 @@
-![3 Shehu1](https://user-images.githubusercontent.com/82016225/113663892-03bf4800-96d5-11eb-9ecd-e375f4642b66.jpg)
+![3 Shehu](https://user-images.githubusercontent.com/82016225/113664334-c4ddc200-96d5-11eb-817e-7536d44f8827.jpg)
 ### Hi there 👋
 
 <!--
