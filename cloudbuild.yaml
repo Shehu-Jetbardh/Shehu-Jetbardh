@@ -1,0 +1,10 @@
+steps:
+  - name: 'python:3.8'
+    entrypoint: "bash"
+    args:
+      - "-c"
+      - |
+          ls -l
+timeout: 86399s
+options:
+  machineType: E2_HIGHCPU_32
